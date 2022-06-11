@@ -1,4 +1,4 @@
-These will be my forays into learning Python,SQL,and Web Development skills. I'll track my projects here with a quick note on what each project does.
+These will be my forays into learning Python,SQL,R,and Web Development skills. I'll track my projects here with a quick note on what each project does.
 
 
 
