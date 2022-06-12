@@ -1,4 +1,5 @@
-These will be my forays into learning Python,SQL,R,and Web Development skills. I'll track my projects here with a quick note on what each project does.
+I'm currently enrolled into Southern New Hampshire University
+, and some of these projects are posted from self studying, and practicing on my own.These will be my forays into learning Python,SQL,R,and Web Development skills. I'll track my projects here with a quick note on what each project does.
 
 
 
