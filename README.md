@@ -1,4 +1,4 @@
-I'm currently enrolled into Southern New Hampshire University
+I'm currently enrolled into Southern New Hampshire University in Data Anlytics Bachelor's program
 , and some of these projects are posted from self studying, and practicing on my own.These will be my forays into learning Python,SQL,R,and Web Development skills. I'll track my projects here with a quick note on what each project does.
 
 
@@ -7,7 +7,7 @@ I'm currently enrolled into Southern New Hampshire University
 
 
 
-### Hi there 👋
+
 
 <!--
 **TEV1996/TEV1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
